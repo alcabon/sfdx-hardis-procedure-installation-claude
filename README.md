@@ -1,4 +1,4 @@
-# sfdx-hardis-procedure-installation-claude.md
+# sfdx-hardis-procedure-installation-claude
 procédure d'installation créée par Claude Sonnet 4.5
 
 # 📋 SYNTHÈSE COMPLÈTE : Architecture sfdx-hardis INT/RCT/MAIN
